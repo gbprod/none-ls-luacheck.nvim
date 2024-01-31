@@ -19,7 +19,7 @@ This should be used as a dependency of **none-ls.nvim**.
   {
     "nvimtools/none-ls.nvim",
     config = function()
-        require("null-ls").register(require("none-ls-luacheck.diagnostics.php"))
+        require("null-ls").register(require("none-ls-luacheck.diagnostics.luacheck"))
     end,
     dependencies = {
         "gbprod/none-ls-luacheck.nvim",
