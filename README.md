@@ -1,8 +1,8 @@
 # none-ls-luacheck.nvim
 
-[Luacheck](https://github.com/mpeterv/luacheck) diagnostics plugin for [none-ls.nvim](https://github.com/nvimtools/none-ls.nvim).
+[Luacheck](https://github.com/mpeterv/luacheck) diagnostics source for [none-ls.nvim](https://github.com/nvimtools/none-ls.nvim).
 
-Since this diagnostic will be deprecated from [none-ls.nvim](https://github.com/nvimtools/none-ls.nvim)
+Since this diagnostic was deprecated from [none-ls.nvim](https://github.com/nvimtools/none-ls.nvim)
 (see [this issue](https://github.com/nvimtools/none-ls.nvim/issues/58)) because [selene](https://github.com/Kampfkarren/selene) is a better alternative,
 this repository allows to keep using [Luacheck](https://github.com/mpeterv/luacheck) with [none-ls.nvim](https://github.com/nvimtools/none-ls.nvim).
 
